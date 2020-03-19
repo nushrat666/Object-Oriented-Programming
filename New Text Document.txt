@@ -1,0 +1,64 @@
+1st class->>
+
+intellij idea--> java
+intellij idea and android studio similar || interface similar
+project create korar somoy sdk by default niye nibe
+additional library select korbo kotlin/jvm
+project location eccha moto dbo
+show tips on start up not needed
+
+Intellij idea- IDE - Integrated development Environment
+
+java kotlin dart egulo etai kora jai
+src er under e package rakhbo
+package er under e class gula rakhbo
+
+package er nam small letter e hobe
+
+pascal casing- MainClass || for class & Interface-->each
+word start with capital letter
+
+small letter-variable
+all capital- CONSTANT
+
+Naming Convention follow korte hobe
+class er shuru te package er nam o thakbe
+
+package classandobject;
+
+public class MainClass {
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
